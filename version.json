@@ -1,5 +1,5 @@
 {
   "device": "ESP32-C3",
-  "latest_version": "1.04",
+  "latest_version": "1.0.4",
   "firmware_url": "https://github.com/Thanormsin/SmartFarmOTA/releases/download/1.0.4/ESP32-C3_v1.0.4-GOLDEN.bin"
 }
