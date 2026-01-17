@@ -2,7 +2,7 @@
   "latest_version": "1.0.4",
   "min_version": "1.0.2",
   "board": "ESP32-C3",
-  "firmware_url": "https://raw.githubusercontent.com/Thanormsin/SmartFarmOTA/main/firmware/esp32c3_v1.0.4.bin",
+  "firmware_url": "https://github.com/Thanormsin/SmartFarmOTA/releases/download/1.0.4/ESP32-C3_v1.0.4-GOLDEN.bin",
   "release_note": "Improve WiFi stability, OTA safety, MQTT check",
   "force_update": false
 }
