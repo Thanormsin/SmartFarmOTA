@@ -4,5 +4,5 @@
   "max_version": "1.0.5",
   "firmware_url": "https://github.com/Thanormsin/SmartFarmOTA/releases/download/1.0.5/ESP32-C3_v1.0.5-GOLDEN.bin",
   "note": "Improve OTA stability, add rollback protection and progress log",
-  "force_update": "true"
+  "force_update": "false"
 }
