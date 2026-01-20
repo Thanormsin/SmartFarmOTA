@@ -2,7 +2,7 @@
   "latest_version": "1.0.4",
   "min_version": "1.0.0",
   "max_version": "2.0.0",
-  "force_update": false,
+  "force_update": true,
   "url":"https://github.com/Thanormsin/SmartFarmOTA/releases/download/1.0.4/ESP32-C3_v1.0.4-GOLDEN.bin",
   "note": "Bugfix: WiFi reconnect + LED sync blink"
 }
