@@ -1,6 +1,5 @@
 # WolffiaSmartFarm
-รุ่น ESP32-C3 Super Mini ใช้ Library V. 3.3.3
-  install 
+บอร์ดรุ่น ESP32-C3 Super Mini 
   - PubSubClient
   - ArduinoJson
   - Preferences
