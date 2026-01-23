@@ -6,3 +6,7 @@
 
   - Board Manager
     - EESP32  --> V 3.3.3
+
+OTA
+  Normal = Current <> New && New(ETag)
+  Force  = Force = True && New(ETag)
