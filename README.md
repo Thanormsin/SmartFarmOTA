@@ -5,7 +5,8 @@
   - Preferences
 
   - Board Manager
-    - EESP32  --> V 3.3.3
+    - ESP32  --> V 3.3.3
+    - 8266 Not support
 
 OTA
   - Normal = Current <> New && New(ETag)
