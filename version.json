@@ -1,5 +1,5 @@
 {
-  "Firmwareid_Bin": "25-Jan-26 11:46",
+  "FwBinID": "25-Jan-26 11:46",
   "version": "1.0.4",
   "url": "https://raw.githubusercontent.com/Thanormsin/SmartFarmOTA/main/ESP32-C3_v1.0.4-GOLDEN.bin",
   "force": false,
