@@ -1,6 +1,6 @@
 {
   "Build": "25-Jan-26 11:46",
-  "version": "GOLD 1.0.4",
+  "version": "GOLD 1.04",
   "url": "https://raw.githubusercontent.com/Thanormsin/SmartFarmOTA/main/ESP32-C3_v1.0.4-GOLDEN.bin",
   "force": false,
   "note": "Bug fix OTA + WiFi stability"
