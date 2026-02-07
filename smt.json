@@ -1,0 +1,8 @@
+{
+  "Build": "25-Jan-26 11:46",
+  "version": "1.04",
+  "plant": "SMK",
+  "url": "https://raw.githubusercontent.com/Thanormsin/SmartFarmOTA/main/ESP32-C3_v1.0.4-SMK.bin",
+  "force": false,
+  "note": "Bug fix OTA + WiFi stability"
+}
