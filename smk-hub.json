@@ -1,7 +1,7 @@
 {
   "build": "01-Jan-26 11:46",
   "version": "1.06",
-  "plant": "smt",
+  "plant": "smk",
   "url": "https://raw.githubusercontent.com/Thanormsin/SmartFarmOTA/main/ESP32-Beginner_v1.0.4-SMK.bin",
   "force": false,
   "note": "Bug fix OTA + WiFi stability"
