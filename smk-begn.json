@@ -1,6 +1,6 @@
 {
   "build": "30-Jan-26 11:46",
-  "version": "1.30",
+  "version": "1.35",
   "plant": "smk",
   "url": "https://raw.githubusercontent.com/Thanormsin/SmartFarmOTA/main/SMK-DEV-BGN.bin",
   "force": false,
